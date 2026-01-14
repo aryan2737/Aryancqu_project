@@ -27,12 +27,12 @@ The wireless network design is derived from the logical network design which is 
 
 **HQ Wi-Fi**
 
-![Truelec Network Diagram – HQ and Branches](images/truelec-wifi-hq.png)
+![Truelec Network Diagram – HQ and Branches](Images/truelec-wifi-hq.png)
 
 In the headquarters Wi-Fi design, the Cisco Catalyst 2960X-24 switches are used which connects to the wireless routers. The two wireless routers are connected where the first one is for the staff members and the second one is for the guests. The SSID set for the staff members is Truelec HQ with VLAN 20, operating over the WPA3 and 5 GHZ of medium. For the second, the SSID is Truelec Guest, which connects to the VLAN 30 and is using WPA3 protocol and remains isolated from other networks.
 
 **Branches Wi-Fi**
-![Truelec Network Diagram – HQ and Branches](.images/truelec-wifi-branches.png)
+![Truelec Network Diagram – HQ and Branches](.Images/truelec-wifi-branches.png)
 
 For the branches also, the wireless routers are used which connects to the guest and the staff members with different SSIDs across the different VLANs. VLAN 20 and VLAN 30 on the Perth office uses staff and guest access points whilst the VLAN 20 and VLAN 30 on the Brisbane also uses the guest and staff SSIDs. 
 
