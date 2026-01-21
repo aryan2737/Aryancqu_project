@@ -1,6 +1,6 @@
 # COIT20246 Networking and Cyber Security Project
 
-- Group Number: 
+- Group Number: 48
 - Student 1: Aryan Patel (12318537)
 - Campus: Melbourne 
 - Tutor: David ling
