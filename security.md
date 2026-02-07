@@ -7,9 +7,9 @@
 [View risk assessment spreadsheet](./risk-assessment.xlsx)
 
 ### TVA Matrix
-![TVA 1](./threat-vulnerability-asset-1.png)  
-![TVA 1](./threat-vulnerability-asset-2.png)  
-![TVA 1](./threat-vulnerability-asset-3.png)
+![TVA 1](./IMG_3508.png)  
+![TVA 1](./IMG_3509.png)
+![TVA 1](./IMG_3510.png)
 
 ---
 
