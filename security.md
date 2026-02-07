@@ -7,9 +7,9 @@
 [View risk assessment spreadsheet](./risk-assessment.xlsx)
 
 ### TVA Matrix
-![TVA 1](images/IMG_3508.png)  
-![TVA 1](images/IMG_3509.png)
-![TVA 1](images/IMG_3510.png)
+![TVA 1](Images/IMG_3508.png)  
+![TVA 1](Images/IMG_3509.png)
+![TVA 1](Images/IMG_3510.png)
 
 ---
 
