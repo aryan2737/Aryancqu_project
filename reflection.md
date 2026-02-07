@@ -5,7 +5,7 @@
 ## GitHub Commits
 
 The commit history screenshot is taken from the GitHub Insights page and can be checked underneath.  
-![Git Hub Commits](./Screenshot (20).png)
+![Git Hub Commits](./Images/Screenshot (20).png)
 
 ---
 
